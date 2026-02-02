@@ -1,3 +1,4 @@
 # data files
 *.csv
 loan_default_ml/data/
+employee_attrition_prediction/data/
